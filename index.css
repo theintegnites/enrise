@@ -1,0 +1,32 @@
+#header
+{
+	margin-top: -8px;
+	margin-left: -8px;
+	margin-right: -8px;
+	padding: 5px;
+	text-align: right;
+	background-color: #7E7779;
+	font-size: 20;
+	font-style: none;
+}
+a
+{
+	text-decoration: none;
+	padding: 0px;
+}
+
+#f1
+{
+	float: right;
+}
+#content
+{
+	margin-left:auto;
+	margin-right: auto;
+	width: auto;
+}
+#footer
+{
+	margin-bottom: -8px;
+}
+
